@@ -1,0 +1,9 @@
+.halfComponent {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+.buttonsContainer {
+    text-align: center;
+}
